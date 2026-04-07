@@ -1,6 +1,3 @@
 # Test
-Ah su up ha gi sil ta
-
-i want to go home
-
-sksksksks
+테스트
+서양고대사 수업 듣기 싫다
