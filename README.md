@@ -1,9 +1,4 @@
-# Test
-
-서양고대사 수업 듣기 싫다
-
-아 너무 졸려
-
-술 너무 취했는데 과제를 하는게 맞나
-
-테스트 입니다
+# 이거는 test이다
+**이거는 중요한 내용이다**
+~~이기획안은 최종에서 제외~~
+![아너무졸려](https://iac.knu.ac.kr/assets/images/startup/banner-test.png)
